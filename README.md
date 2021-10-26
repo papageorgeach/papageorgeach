@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @papageorgeach
-- 👀 I’m interested in software engineering and data science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m George-Achilles Papageorgiou
+- 👀 I’m interested in app development and machine learning
+- 🌱 I’m currently learning flutter dart
+- 📫 How to reach me : papageorge2000@gmail.com
 
 <!---
 papageorgeach/papageorgeach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
